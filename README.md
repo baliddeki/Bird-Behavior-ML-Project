@@ -3,8 +3,10 @@
 
 
 This is our recess project. Using Machine Learning, we aim at analysing how different sounds show bird behaviors of mating and alarming others of the likely danger
+* [Amanda Ann Kirabo](https://github.com/UgAka)
 * [Nanyonga Rahmah](https://github.com/UgAka)
+* [Allideki Mulindwa Brian](https://github.com/UgAka)
 * [Nsereko Julius](https://github.com/UgAka)
 * [Mutumba Robert](https://github.com/UgAka)
-* [Allideki Mulindwa Brian](https://github.com/UgAka)
-* [Amanda Ann Kirabo](https://github.com/UgAka)
+
+
