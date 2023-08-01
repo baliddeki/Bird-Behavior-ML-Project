@@ -7,6 +7,6 @@ This is our recess project. Using Machine Learning, we aim at analysing how diff
 * [Nanyonga Rahmah](https://github.com/UgAka)
 * [Allideki Mulindwa Brian](https://github.com/UgAka)
 * [Nsereko Julius](https://github.com/UgAka)
-* [Mutumba Robert](https://github.com/UgAka)
+* [Mutumba Robert](https://github.com/RobertMutumba2019)
 
 
