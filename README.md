@@ -1,4 +1,4 @@
-# Bird-Behavior-ML-Project:Mating, and Alarm Calls Detection
+# Bird-Behavior-ML-Project
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/baliddeki/Bird-Behavior-ML-Project/commits/master)
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,16 +11,16 @@
 
  ## Introduction
 
-Welcome to the  Bird-Behavior-ML-Project:Mating, and Alarm Calls Detection. This project aims to detect and classify various bird calls and behaviors, specifically focusing on mannerisms, mating calls, and alarm calls. The project leverages deep learning techniques to analyze audio recordings of bird sounds and provide insights into different bird behaviors.
+Welcome to the  Bird-Behavior-ML-Project. This project aims to detect and classify various bird calls and behaviors, specifically focusing on mannerisms, alarm calls, duet calls and other calls. The project leverages deep learning techniques(CNN) to analyze audio recordings of bird sounds and provide insights into different bird behaviors.
 
-Bird calls are important means of communication in the avian world, and understanding their different vocalizations can provide valuable information about bird behavior, mating rituals, and potential threats or predators in their environment. This is our Recess project can be of interest to ornithologists, bird enthusiasts, and researchers who wish to study bird behaviors using machine learning and audio processing techniques.
-This is our recess project. Using Machine Learning, we aim at analysing how different sounds show bird behaviors of mating and alarming others of the likely danger.
+Bird calls are important means of communication in the avian world, and understanding their different vocalizations can provide valuable information about bird behavior and potential threats or predators in their environment. This is our Recess project can be of interest to ornithologists, bird enthusiasts, and researchers who wish to study bird behaviors using machine learning and audio processing techniques.
+
 
 ## Project Overview
 
-The Bird Mannerisms, Mating, and Alarm Calls Detection Project consists of the following main components:
+The Bird Behavior ML Project consists of the following main components:
 
-1. **Data Collection**: Gathering a diverse dataset of bird audio recordings that includes mannerisms, mating calls, and alarm calls from various bird species.
+1. **Data Collection**: Gathering a diverse dataset of bird audio recordings that includes mannerisms, alarm calls, duet calls and other calls from various bird species.
 
 2. **Data Preprocessing**: Cleaning and preparing the audio data for training and evaluation, including audio normalization, feature extraction, and data augmentation.
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 The dataset used for training and evaluation is included in this repository. However, you can also obtain a suitable bird audio dataset from the [Xeno-Canto](https://xeno-canto.org/) website.
 
-Once you have obtained the audio dataset, organize it into appropriate directories for each class (mating calls, duet calls,alarm calls) and ensure the file format is compatible with the model training script.
+Once you have obtained the audio dataset, organize it into appropriate directories for each class (alarm calls,duet calls and other calls) and ensure the file format is compatible with the model training script.
 
 
 ## Contributing
